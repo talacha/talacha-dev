@@ -7,11 +7,13 @@ hero_image: "/content/images/black-and-white-car-vehicle-vintage-474.jpg"
 ---
 # Web development
 
+What that means is that we can generate a new copy of this site whenever there's a change to the content, a SSG will compile and mash-up content data, images and theme and will spit out perfectly rich markup. Now that's our JAM.
+
+![An image of a workbench with the Talacha dev logo overlaid](/content/images/talacha-twitter-header.jpg "Talacha")
+
 ## Modern web development
 
 > This site was built using Forestry.io and is "hosted" (deployed) using Netlify.
-
-What that means is that we can generate a new copy of this site whenever there's a change to the content, a SSG will compile and mash-up content data, images and theme and will spit out perfectly rich markup. Now that's our JAM.
 
 ## JAM
 
