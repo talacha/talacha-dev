@@ -17,8 +17,8 @@ What that means is that we can generate a new copy of this site whenever there's
 
 ## JAM
 
-Stands for Javascript, API, and Markup, and it's a rather new way of thinking about web development in general. It's worth while noting that the API side might still include a traditional CMS such as Drupal, or even the use of a SSG like Forestry to statically generate the site while providing the editors a rich user-friendly interface to manage content.
+Stands for Javascript, API, and Markup, and it's a rather new way of thinking about web development in general. It's worthwhile noting that the API side might still include a traditional CMS such as Drupal, or even the use of a SSG like Forestry to statically generate the site while providing the editors a rich user-friendly interface to manage content.
 
 ## Results
 
-The bottomline is: we get it, we do the heavy lifting, the grunt work, PUN intended so you don't have you. Concentrate on your message and we will build the platform that your organization needs to reach your audience.
+The bottom line is: we get it, we do the heavy lifting, the grunt work, PUN intended so you don't have you. Concentrate on your message and we will build the platform that your organization needs to reach your audience.
