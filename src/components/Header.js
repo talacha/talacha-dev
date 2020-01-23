@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import {Link} from "gatsby"
 import headerStyles from "../styles/components/header.module.scss"
 
 export default function Header(props) {
@@ -13,15 +13,9 @@ export default function Header(props) {
                 role="navigation"
                 aria-label="main navigation"
             >
-                <Link
-                    to={
-                        props.page === 'info'
-                            ? "/"
-                            : "/info"
-                    }
-                    activeClassName={headerStyles.navItemActive}
-                >
-                    <svg width="40" height="40" enable-background="new 0 0 40 40" viewBox="0 0 40 40"
+                <Link to="/">
+                    <svg x="0px" y="0px"
+                         width="40px" height="40px" enable-background="new 0 0 512 512" viewBox="0 0 512 512"
                          xmlns="http://www.w3.org/2000/svg">
                         <title>Talacha Icon</title>
                         <g transform="translate(1 1)">
@@ -76,8 +70,6 @@ export default function Header(props) {
                         <path
                             d="m204.8 238.9c0 4.7 3.8 8.5 8.5 8.5h213.3c4.7 0 8.5-3.8 8.5-8.5s-3.8-8.5-8.5-8.5h-213.3c-4.7 0-8.5 3.8-8.5 8.5z"/>
                     </svg>
-                </Link>
-                <Link to="/">
                     <h1>{props.title}</h1>
                 </Link>
                 <div>
