@@ -1,5 +1,6 @@
 {
   "title": "Talacha.dev",
   "description": "Made with love using Forestry CMS with Gatsby.",
-  "repository_url": "https://github.com/talacha/talacha-dev"
+  "repository_url": "talacha/talacha-dev",
+  "logo": ""
 }
