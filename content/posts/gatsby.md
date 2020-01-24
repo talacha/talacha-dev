@@ -1,6 +1,6 @@
 ---
 date: 2020-01-22T14:00:50.000+00:00
-hero_image: "/content/images/stainless-steel-close-wrench-on-spanner-210881 (1).jpg"
+hero_image: "/content/images/stainless-steel-close-wrench-on-spanner-210881.jpg"
 title: 'Gatsby: The tool of the trade'
 author: Talacha Web Team
 
