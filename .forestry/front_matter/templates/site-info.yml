@@ -11,5 +11,12 @@ fields:
 - type: text
   name: repository_url
   label: repository_url
+  description: Just the repo name, skip https://github.com/...
+- name: logo
+  type: file
+  config:
+    maxSize: 250
+  label: logo
+  description: Upload a logo to show next to the site name.
 pages:
 - config.json
