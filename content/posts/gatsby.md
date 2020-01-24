@@ -54,3 +54,11 @@ With the performance boost and features to add to the smoothness of the user exp
 For sites following standards that you also want to be performant, we’ve got tons of things to do and guides to follow: minification and bundling, browser caching and async loading scripts or files, and so on. When working with a framework like React, you have more things to worry about even though it solves a couple of problems: code-splitting, SEO, routing if required, responsive images, and the list goes on.
 
 Gatsby aims to solve all these problems, with less time spent on tooling, configuration, and the environment and more time to design and develop the site.
+
+## We're here to help!
+
+[![Talacha Logo](/content/images/talacha-logo-color.png "Talacha")](https://twitter.com/talacha_dev)
+
+Our talented team of full-stack engineers paired with passionate storytelling UX and front end consultants are ready to assist you on your journey.
+
+Give us a shout at [@talacha_dev](https://twitter.com/talacha_dev) and someone will get in touch with you.
