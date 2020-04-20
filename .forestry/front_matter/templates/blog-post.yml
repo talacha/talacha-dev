@@ -36,6 +36,6 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
+- content/posts/corona.md
 - content/posts/gatsby.md
-- content/posts/web-in-times-of-corona-virus.md
 - content/posts/what-we-do.md
